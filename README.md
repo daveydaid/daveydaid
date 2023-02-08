@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello
 
-<!--
-**daveydaid/daveydaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded systems engineer, sharing some hobbyist project experiences.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/davidmcdaid/">
+  <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
+</a>
+<a href="https://www.reddit.com/user/bringmedavid">
+  <img align="left" alt="David's Reddit" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Reddit.svg" />
+</a>
+<a href="https://davidmcdaid.wordpress.com/">
+  <img align="left" alt="David's Blog" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Wordpress.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
